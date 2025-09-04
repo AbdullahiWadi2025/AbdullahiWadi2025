@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Abdullahi Wadi 👋
 
-<!--
-**AbdullahiWadi2025/AbdullahiWadi2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about **Cloud Computing and AWS**, building hands-on projects that solve real-world problems.  
 
-Here are some ideas to get you started:
+- 🎓 Bachelor of Science in Management Information Systems, San Diego State University  
+- ☁️ Focused on **Cloud & AWS**, with hands-on experience in cloud projects  
+- 🔒 Interested in **Cybersecurity** within cloud environments  
+- 💻 Explore my cloud projects: [Portfolio Projects](https://github.com/AbdullahiWadi2025/portfolio)  
+- 📫 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdullahiwadi)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Featured Cloud Projects
+- **AI-Powered Cloud Security Automation** – Automated monitoring using AWS Lambda, DynamoDB, CloudWatch, and GPT summarization  
+- **Cloud Security Projects** – OpenVPN on EC2, automated CloudWatch monitoring, IAM policies, and secure S3 configurations  
+- **System Security & Hardening** – OS hardening, vulnerability assessments, and compliance benchmarking  
+
+Check out my projects to see them in action! 🚀
