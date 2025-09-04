@@ -6,7 +6,7 @@ I'm passionate about **Cloud Computing and AWS**, building hands-on projects tha
 - ☁️ Focused on **Cloud & AWS**, with hands-on experience in cloud projects  
 - 🔒 Interested in **Cybersecurity** within cloud environments  
 - 💻 Explore my cloud projects: [Portfolio Projects](https://github.com/AbdullahiWadi2025/portfolio)  
-- 📫 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdullahiwadi)  
+- 📫 Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/abdullahi-wadi)  
 
 ---
 
