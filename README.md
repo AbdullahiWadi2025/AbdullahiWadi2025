@@ -16,7 +16,7 @@ I'm passionate about **Cloud Computing and AWS**, building hands-on projects tha
 - **System Security & Hardening** – OS hardening, vulnerability assessments, and compliance benchmarking  
 
 
-### Cloud Portfolio Projects
+### 🌐 AWS CloudFront + S3 Portfolio Website
 
 **AWS CloudFront + S3 Static Website Hosting** – Hosted a static portfolio website using Amazon S3 for storage and Amazon CloudFront as a CDN.  
 - ✅ Cost-optimized deployment using AWS Free Tier  
