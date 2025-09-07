@@ -15,4 +15,17 @@ I'm passionate about **Cloud Computing and AWS**, building hands-on projects tha
 - **Cloud Security Projects** – OpenVPN on EC2, automated CloudWatch monitoring, IAM policies, and secure S3 configurations  
 - **System Security & Hardening** – OS hardening, vulnerability assessments, and compliance benchmarking  
 
+
+### Cloud Portfolio Projects
+
+**AWS CloudFront + S3 Static Website Hosting** – Hosted a static portfolio website using Amazon S3 for storage and Amazon CloudFront as a CDN.  
+- ✅ Cost-optimized deployment using AWS Free Tier  
+- ✅ Secure setup with Origin Access Control (OAC)  
+- 🔗 Check it out on GitHub: [aws-cloudfront-s3-portfolio-site](https://github.com/AbdullahiWadi2025/aws-cloudfront-s3-portfolio-site)  
+- 📸 Architecture Diagram & Implementation Screenshots included
+
+
+
+
+
 Check out my projects to see them in action! 🚀
